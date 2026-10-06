@@ -9,17 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harsh-goyal-2b6062266" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-goyal-ba5354377" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://bento.me/harsh-goyal" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-bento.me%2Fharsh--goyal-6366F1?style=for-the-badge&logo=bento&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://medium.com/@harshgoyal1331" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-@harshgoyal1331-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="mailto:harshgoyal1331@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harshgoyal1331%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:h11332161@gmail.com">
+    <img src="https://img.shields.io/badge/Email-h11332161%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/codeHarsh-01">
     <img src="https://img.shields.io/badge/GitHub-codeHarsh--01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -40,10 +34,10 @@
       <ul>
         <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering (NIET Greater Noida)</li>
         <li>🔭 <b>Currently Building:</b> Scalable web architectures, academic analytics platforms & interactive SPAs</li>
-        <li>🌱 <b>Learning & Honing:</b> Advanced Data Structures & Algorithms, System Design & Cloud Interop</li>
-        <li>✍️ <b>Writing:</b> Sharing insights & technical articles on <a href="https://medium.com/@harshgoyal1331" target="_blank">Medium</a></li>
+        <li>🌱 <b>Learning & Honing:</b> Advanced Data Structures & Algorithms, System Design & Backend Architectures</li>
+        <li>💡 <b>Interests:</b> Algorithmic Problem Solving, Clean Code & Cloud-native Web Apps</li>
         <li>💬 <b>Ask me about:</b> Java OOP, C++, Python, Clean Architecture & Frontend Performance</li>
-        <li>📫 <b>Contact:</b> <a href="mailto:harshgoyal1331@gmail.com">harshgoyal1331@gmail.com</a></li>
+        <li>📫 <b>Contact:</b> <a href="mailto:h11332161@gmail.com">h11332161@gmail.com</a></li>
         <li>⚡ <b>Motto:</b> <i>"Code. Learn. Build. Repeat."</i></li>
       </ul>
     </td>
